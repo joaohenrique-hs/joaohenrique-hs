@@ -28,10 +28,13 @@ I 💖 to customize things (check my [dotfiles](https://github.com/joaohenrique-
 
 ## Programming Languages
 
-<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/js.svg' width='40'/> <img src = 
-'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/html.svg' width='40'/> <img src = 
-'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/css.svg' width='40'/> <img src = 
-'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/git.svg' width='40'/>
+
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/js.svg' width='50'/> <img src = 
+'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/react.png' width='50'/> <img src = 
+'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/node.webp' width='50'/> <img src = 
+'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/html.svg' width='50'/> <img src = 
+'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/css.svg' width='50'/> <img src = 
+'https://github.com/joaohenrique-hs/joaohenrique-hs/blob/master/assets/logos/git.svg' width='50'/>
 
 ## Statistics
 
