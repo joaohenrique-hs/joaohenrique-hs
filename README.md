@@ -28,6 +28,14 @@ I 💖 to customize things (check my [dotfiles](https://github.com/joaohenrique-
 
 ## Programming Languages
 
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/tree/master/assets/logosjs.svg' width='30'/> 
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/tree/master/assets/logos/c-original.svg' width='30'/> 
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/tree/master/assets/logoshtml.svg' width='30'/>
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/tree/master/assets/logoscss.svg' width='30'/>
+<img src = 'https://github.com/joaohenrique-hs/joaohenrique-hs/tree/master/assets/logosgit.svg' width='30'/>
+
+## Statistics
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaohenrique-hs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique-hs&hide=shell&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
