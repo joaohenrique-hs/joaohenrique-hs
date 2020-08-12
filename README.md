@@ -16,16 +16,6 @@ I'm always improving my web development skills 💻
 
 I 💖 to customize things (check my [dotfiles](https://github.com/joaohenrique-hs/dotfiles))
 
-## Tools I love 🖥
-
-#### 🔹JavaScript
-#### 🔹TypeScript
-#### 🔹React
-#### 🔹React-Native
-#### 🔹Linux (Arch 🥰)
-#### 🔹NeoVim
-#### 🔹Git
-
 ## Programming Languages
 
 
