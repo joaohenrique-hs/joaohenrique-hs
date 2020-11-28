@@ -10,7 +10,7 @@ Welcome to my profile! Feel free to explore my repositories, and interact with m
 
 ## About 🧐
 
-I'm a fullstack developer that loves tecnology, and making great things!
+I'm a fullstack developer that loves technology, and making great things!
 
 I'm always improving my web development skills 💻
 
